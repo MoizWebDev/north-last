@@ -36,7 +36,7 @@ const portfolio = () => {
                 <title>North Beta Labs - Portfolio</title>
             </Head>
             <div className="head-banner">
-                <div className="page-info" style={{ background: "url(" + "/imgs/portfolio-banner.jpg" + ")", backgroundRepeat: 'no-repeat', backgroundPosition: "center", }}>
+                <div className="page-info" style={{ background: "url(" + "/imgs/portfolio-banner.png" + ")", backgroundRepeat: 'no-repeat', backgroundPosition: "center", }}>
                     <div className="content">
                         <h1 className="heading-main">OUR PORTFOLIO</h1>
                         <h4>WELCOME TO THE JOURNEY INTO THE FOURTH INDUSTRIAL REVOLUTION</h4>
