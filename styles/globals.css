@@ -1336,3 +1336,9 @@ html {
   color: white;
   font-size: 35px;
 }
+.portfolio-content-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

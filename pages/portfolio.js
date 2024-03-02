@@ -37,7 +37,7 @@ const portfolio = () => {
             </Head>
             <div className="head-banner">
                 <div className="page-info" style={{ background: "url(" + "/imgs/portfolio-banner.png" + ")", backgroundRepeat: 'no-repeat', backgroundPosition: "center", }}>
-                    <div className="content">
+                    <div className="content portfolio-content-main">
                         <h1 className="heading-main">OUR PORTFOLIO</h1>
                         <h4>WELCOME TO THE JOURNEY INTO THE FOURTH INDUSTRIAL REVOLUTION</h4>
                         <Link href="/services" className="subscribe-btn main-btn">Our Services</Link>
